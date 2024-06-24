@@ -1,0 +1,29 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+.container {
+    border: 1px solid black;
+    width: 90vw;
+    height: 90vh;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.left-bar {
+    border: 5px solid black;
+    width: 50vw;
+    height: 80vh;
+}
+
+.right-bar {
+    border: 5px solid black;
+    width: 40vw;
+    height: 80vh;
+}
+
+button {
+    font-size: 50px;
+}
